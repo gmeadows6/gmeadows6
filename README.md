@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gmeadows6
 - 👀 I’m interested in ... animals, science, tech  
 - 🌱 I’m currently learning ... Accessibility 
-- 💞️ I’m looking to collaborate on ... A project from ineption to completion 
+- 💞️ I’m looking to collaborate on ... A project from inception to completion 
 - 📫 How to reach me ... genmeadows6@gmail.com
 
 <!---
